@@ -34,7 +34,15 @@ _переводчик_
  - свёклу
  + английский язык
  - сильный запах духов
+ ### 14. __моё расписание на неделю__:
+ 
+ ### 15. __ссылки на мои социальные сети__:
+ # [vkontakte](https://vk.com/ritter_chprot)
+ # [instagram](https://www.instagram.com/ritter_chprot/?hl=ru)
+ # [telegram](http://t.me/ritter_chprot)
+### 16. __моя фотография__:
 
+![](https://pp.userapi.com/c626221/v626221937/54b4f/odIYWoubmuI.jpg)
 ### семинар 1, группа _БИЯ1712_
 ### Темы
 * Система контроля версий Git
