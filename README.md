@@ -35,11 +35,16 @@ _переводчик_
  + английский язык
  - сильный запах духов
  ### 14. __моё расписание на неделю__:
+ понедельник|вторник|среда
+ -----------|:-----:|-----
+ лекция по цг|французский|вкб
+ семинар по цг|мкн|нис
+ 
  
  ### 15. __ссылки на мои социальные сети__:
  # [vkontakte](https://vk.com/ritter_chprot)
  # [instagram](https://www.instagram.com/ritter_chprot/?hl=ru)
- # [telegram](http://t.me/ritter_chprot)
+ # [telegram](http://t.me/ritterchprot)
 ### 16. __моя фотография__:
 
 ![](https://pp.userapi.com/c626221/v626221937/54b4f/odIYWoubmuI.jpg)
